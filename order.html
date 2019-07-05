@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>order</title> 
+	<script type="text/javascript" src="cek.js"></script>
+	<script type="text/javascript" src="hitung.js"></script>
+	<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body id="bd">
+	<form name="pesan" method="POST" action="simpan.php">
+	<div id="order"> 
+		<center>
+		<h3>DATA PEMESAN</h3>
+		</center>
+		<p>
+			<font>Merk Hp<br></font>
+			<input type="text" name="merk" id="merk"><br>
+			<font>Harga<br></font>
+			<input type="text" name="harga_jual" id="harga_jual"><br>
+			<font>Jumlah (unit)<br></font>
+			<input type="text" name="jumlah" id="jumlah"> <input type="button" id="cektotal" value="total" onclick="hitung()"><br>
+			<font>Total Harga<br></font>
+			<input type="text" name="total" id="total"><br><br>
+
+			<font>Nama<br></font>
+			<input type="text" name="nama"><br>
+			<font>Alamat<br></font>
+			<input type="text" name="alamat"><br>
+			<font>No HP<br></font>
+			<input type="number" name="nohp"><br>
+			<font>E-Mail<br></font>
+			<input type="text" name="email"><br><br>
+			<input type="submit" name="order" value="Order" onclick="cek()">
+		</p>
+		
+	</div>
+	<center><br>
+	<button id="back"><a href="dashboard.html">Back</a></button></center>
+	</form>
+</body>
+</html>

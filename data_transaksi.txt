@@ -1,0 +1,42 @@
+
+Data Pemesan SmartPhone 
+
+Tanggal Pesan  : Friday,5 July 2019
+Nama           : dhabit 
+Alamat         : yogyakarta
+No. Hp         : 0878000001
+E-Mail         : muhamaddhabit123@gmail.com
+Merk Hp        : Samsung Galaxy J1 2017
+Harga          : 1029000 
+Jumlah         : 1 
+Total          : 1029000 
+
+----------------------------------
+
+Data Pemesan SmartPhone 
+
+Tanggal Pesan  : Friday,5 July 2019
+Nama           : anwar 
+Alamat         : semarang
+No. Hp         : 08784533572
+E-Mail         : anwar@gmail.com
+Merk Hp        : Samsung Galaxy J1 2017
+Harga          : 1029000 
+Jumlah         : 2 
+Total          : 2058000 
+
+----------------------------------
+
+Data Pemesan SmartPhone 
+
+Tanggal Pesan  : Friday,5 July 2019
+Nama           : anwar 
+Alamat         : semarang
+No. Hp         : 08784533572
+E-Mail         : anwar@gmail.com
+Merk Hp        : Samsung Galaxy J1 2017
+Harga          : 1029000 
+Jumlah         : 2 
+Total          : 2058000 
+
+----------------------------------
